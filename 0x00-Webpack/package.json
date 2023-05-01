@@ -1,0 +1,19 @@
+{
+  "name": "0x00-Webpack",
+  "version": "1.0.0",
+  "description": "Webpack Setup for Basic Project This folder contains a basic setup for a webpack project. The setup includes configuration files, loaders, and plugins to get started with a simple project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2"
+  },
+  "dependencies": {
+    "jquery": "^3.6.4"
+  }
+}
