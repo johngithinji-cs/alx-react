@@ -1,7 +1,7 @@
 {
-  "name": "0x00-Webpack",
+  "name": "task_0",
   "version": "1.0.0",
-  "description": "Webpack Setup for Basic Project This folder contains a basic setup for a webpack project. The setup includes configuration files, loaders, and plugins to get started with a simple project.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
